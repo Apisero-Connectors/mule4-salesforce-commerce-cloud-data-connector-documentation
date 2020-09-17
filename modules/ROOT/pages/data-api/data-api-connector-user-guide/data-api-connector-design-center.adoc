@@ -60,8 +60,8 @@ Design Center automatically saves all changes.
 
 |===
 |Field |Description |Required?  
-|*Base URI*|URL to access API| {y}
-|*Token URI*|URL to access token| {y}
+|*Base URI*| Access API URL| {y}
+|*Token URI*| Access token URL| {y}
 |*Client Id*|Client ID of commerce cloud account| {y}
 |*Client Secret*|Client secret of commerce cloud account| {y}
 |*Scopes*|Scopes for access| {y}
