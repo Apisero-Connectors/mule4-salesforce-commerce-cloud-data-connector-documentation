@@ -59,10 +59,10 @@ Commerce Cloud Data Connector supports only one type of connection provider:
 [options="header",width="50%"]
 |============
 |Field Name   |Value
-|Base Uri    |Data API base URI
-|Client Id | Client ID
-|Client Secret | Client Secret
-|Token url | Token URL
+|Base Uri    | Access API URL
+|Client Id | ID of the client account created with Salesforce Commerce
+|Client Secret | Secret of the client account created with Salesforce Commerce
+|Token url | Access token URL
 |Scopes | Scopes for access
 |============
 

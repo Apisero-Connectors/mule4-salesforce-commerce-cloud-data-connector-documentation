@@ -60,10 +60,10 @@ Design Center automatically saves all changes.
 
 |===
 |Field |Description |Required?  
-|*Base URI*| Access API URL| {y}
-|*Token URI*| Access token URL| {y}
-|*Client Id*|Client ID of commerce cloud account| {y}
-|*Client Secret*|Client secret of commerce cloud account| {y}
+|*Base URI*|Access API URL| {y}
+|*Token URI*|Access token URL| {y}
+|*Client Id*|ID of the client account created with Salesforce Commerce | {y}
+|*Client Secret*|Secret of the client account created with Salesforce Commerce| {y}
 |*Scopes*|Scopes for access| {y}
 |===
 +
