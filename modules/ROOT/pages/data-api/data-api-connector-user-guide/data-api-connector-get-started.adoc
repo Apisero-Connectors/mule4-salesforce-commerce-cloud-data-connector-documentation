@@ -18,7 +18,7 @@ Commerce Cloud Data Connector enables the user to access the Commerce Cloud Data
 [width="100%", options="header"]
 |=======
 |Application or Service |Version
-|Mule runtime engine |4.2.1 and later
+|Mule Runtime Engine |4.2.1 and later
 |Anypoint Studio | 7 and later
 |=======
 
