@@ -1,16 +1,16 @@
-= Commerce Cloud Data Connector - Get Started - Mule 4
+= Commerce Cloud B2C Data Connector - Get Started - Mule 4
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 :imagesdir: ../../../assets/images/
 Support Category: Select
-Commerce Cloud Data Connector Version Major.Minor.Patch
-// Anypoint Connector for Commerce Cloud Data Connector provides ...
-== About Commerce Cloud Data Connector
+Commerce Cloud B2C Data Connector Version Major.Minor.Patch
+// Anypoint Connector for Commerce Cloud B2C Data Connector provides ...
+== About Commerce Cloud B2C Data Connector
 
-Anypoint Connector for Data API Connector (Commerce Cloud Data Connector) is an operation-based connector, which means that when you add the connector to your flow, you need to configure a specific operation for the connector to perform. 
+Anypoint Connector for Salesforce Commerce Cloud B2C Data APIs is an operation-based connector, which means that when you add the connector to your flow, you need to configure a specific operation for the connector to perform.
 
-Commerce Cloud Data Connector enables the user to access the Commerce Cloud Data API by using certain configurations, and to then access the data, update the data, and delete the data, as required.
+Commerce Cloud B2C Data Connector enables the user to access the Salesforce Commerce Cloud B2C Data API by using certain configurations, and to then access the data, update the data, and delete the data, as required.
 
 
 == Mule Compatibility
@@ -25,16 +25,16 @@ Commerce Cloud Data Connector enables the user to access the Commerce Cloud Data
 
 == Prerequisites
 
-Before creating an app, you must have access to the Commerce Cloud Data Connector target resource and
+Before creating an app, you must have access to the Commerce Cloud B2C Data Connector target resource and
 Anypoint Platform. You also need to understand how to create a Mule app using
 Anypoint Design Center (Design Center) or Anypoint Studio (Studio). 
 
 Further, you must be familiar with Mule runtime engine (Mule), Anypoint Connectors, Anypoint Studio Essentials, Mule flows, and Mule Global Elements.
 
-To use Commerce Cloud Data Connector, you need:
+To use Commerce Cloud B2C Data Connector, you need:
 
 * Anypoint Studio version 7 and later
-* Commerce Cloud Data Connector
+* Commerce Cloud B2C Data Connector
 * Commerce cloud credentials such as client Id, Client Secret, Scopes to access Data API which the user needs to get from the Salesforce team. 
 
 

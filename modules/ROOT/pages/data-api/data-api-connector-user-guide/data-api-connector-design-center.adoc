@@ -1,4 +1,4 @@
-= Commerce Cloud Data Connector Design Center Configuration - Mule 4
+= Commerce Cloud B2C Data Connector Design Center Configuration - Mule 4
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
@@ -17,7 +17,7 @@ To create an app in Design Center:
 * Add the connector as a component to process the input for the app.
 
 For information about Design Center field values, see
-the xref:../../data-api/data-api-connector-reference.adoc[Commerce Cloud Data Connector Reference]
+the xref:../../data-api/data-api-connector-reference.adoc[Commerce Cloud B2C Data Connector Reference]
 
 == Configure the Input Source Trigger
 
@@ -48,7 +48,7 @@ Design Center automatically saves all changes.
 == Configure the Target Component
 
 . Click *+* next to the trigger card.
-. In *Select a component*, search for Commerce Cloud Data Connector.
+. In *Select a component*, search for Commerce Cloud B2C Data Connector.
 . Select the connector name.
 . Select an operation for the connector and add the configurations.
 

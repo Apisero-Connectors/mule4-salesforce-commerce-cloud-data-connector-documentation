@@ -1,4 +1,4 @@
-= Commerce Cloud Data Connector Studio Configuration - Mule 4
+= Commerce Cloud B2C Data Connector Studio Configuration - Mule 4
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
@@ -14,15 +14,15 @@ Before you can use a connector in Anypoint Studio, you must:
 . In Studio, create a Mule project.
 . Click the Exchange (X) icon in the upper left of the Studio taskbar.
 . In Exchange, click Login and supply your Anypoint Platform username and password.
-. Search for Commerce Cloud Data Connector.
-. Select Commerce Cloud Data Connector and click Add to project.
-. Follow the prompts to install Commerce Cloud Data Connector.
+. Search for Commerce Cloud B2C Data Connector.
+. Select Commerce Cloud B2C Data Connector and click Add to project.
+. Follow the prompts to install Commerce Cloud B2C Data Connector.
 
 == Install the Connector in Studio
 . In Studio, create a Mule project.
 . In the Mule palette, click (X) Search in Exchange.
-. In Add Modules to Project, type Commerce Cloud Data Connector in the search field.
-. Click Commerce Cloud Data Connector in *Available modules*.
+. In Add Modules to Project, type Commerce Cloud B2C Data Connector in the search field.
+. Click Commerce Cloud B2C Data Connector in *Available modules*.
 . Click Add.
 . Click Finish.
 
@@ -44,7 +44,7 @@ When Studio is updated, a message pops up in the bottom-right corner. Click the 
 update, and then update the Apache Maven pom.xml file dependencies to use the new version number.
 
 == Configure the Connector
-Commerce Cloud Data Connector supports only one type of connection provider:
+Commerce Cloud B2C Data Connector supports only one type of connection provider:
 
 . Oauth2 Application Connection Provider
 
@@ -52,7 +52,7 @@ Commerce Cloud Data Connector supports only one type of connection provider:
 
 . Go back to Anypoint Studio. In Mule Application, click on Global Elements and click Create button
 
-. Collapse connector configuration, select Commerce Cloud Data Connector Config and click OK. You should see as below screen
+. Collapse connector configuration, select Commerce Cloud B2C Data Connector Config and click OK. You should see as below screen
 
 . Configure the following parameters:
 

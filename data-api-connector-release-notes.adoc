@@ -1,18 +1,18 @@
-= Commerce Cloud Data Connector Release Notes
+= Commerce Cloud B2C Data Connector Release Notes
 
-July 2020
+October 2020
 
 _Support Category: Select_
 
-Anypoint Connector for Data API(Commerce Cloud Data Connector) provides mule users with a quick and easy way to integrate with Salesforce Commerce Cloud Data API endpoints.
+Anypoint Connector for Commerce Cloud B2C Data APIs provides Mule users with a quick and easy way to integrate with Salesforce Commerce Cloud B2C Data API endpoints.
 
 == 1.0.0 
-July 2020
+October 2020
 
-This release of Commerce Cloud Data Connector is compatible with Mule 4 but not Mule 3.
+This release of Commerce Cloud B2C Data Connector is compatible with Mule 4 but not Mule 3.
 
 == Compatibility
-Commerce Cloud Data Connector is compatible with these software versions:
+Commerce Cloud B2C Data Connector is compatible with these software versions:
 
 [%header%autowidth.spread]
 |===
@@ -24,7 +24,7 @@ Commerce Cloud Data Connector is compatible with these software versions:
 
 == Features
 
-Commerce Cloud Data Connector provides access to Salesforce Commerce Cloud Data APIs for the below workflows:
+Commerce Cloud B2C Data Connector provides access to Salesforce Commerce Cloud B2C Data APIs for the below workflows:
 
 * Assignments
 * Campaigns

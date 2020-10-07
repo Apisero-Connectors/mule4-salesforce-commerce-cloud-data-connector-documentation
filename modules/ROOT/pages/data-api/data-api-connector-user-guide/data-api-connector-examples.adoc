@@ -1,11 +1,11 @@
-= Commerce Cloud Data Connector Examples - Mule 4
+= Commerce Cloud B2C Data Connector Examples - Mule 4
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 :imagesdir: ../../../assets/images/
 
 === ​Use Case for Searches for Assignments in Anypoint Studio 7
-Commerce Cloud Data Connector is an operation-based connector, which means that when you add the connector to your flow, you need to configure a specific operation for the connector to perform. Commerce Cloud Data Connector supports OAuth2 configuration.
+Commerce Cloud B2C Data Connector is an operation-based connector, which means that when you add the connector to your flow, you need to configure a specific operation for the connector to perform. Commerce Cloud B2C Data Connector supports OAuth2 configuration.
 After successful execution we get the search results for assignments. 
 
 The use case requires you to follow these steps:
@@ -43,7 +43,7 @@ image::data-api/data-connector-example/data-connector-assignment-search-body.jpg
 ```
 
 [start = 5]
-. Select the Commerce Cloud Data Connector Config from Commerce Cloud Data Connector and configure it with the required values or add a new configuration by clicking the green plus (+) symbol.
+. Select the Commerce Cloud B2C Data Connector Config from Commerce Cloud B2C Data Connector and configure it with the required values or add a new configuration by clicking the green plus (+) symbol.
 
 image::data-api/data-connector-example/data-api-connector-oauth2-configuration.jpg[]
 
