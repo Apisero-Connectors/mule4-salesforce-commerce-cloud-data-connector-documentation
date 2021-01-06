@@ -1098,7 +1098,7 @@ This operation makes an HTTP PUT request to the /pricing/gift-certificates/{vers
 
 Creates a product using the information provided. If a product with the same unique identifier exists, 
 it is cleaned and overwritten unless the header x-dw-validate-existing=true is passed in with the request.
-This operation makes an HTTP PUT request to the /pricing/gift-certificates/{version}/organizations/{organizationId}/gift-certificates endpoint.
+This operation makes an HTTP PUT request to the /product/products/{version}/organizations/{organizationId}/products/{productId} endpoint.
 
 
 === Parameters
